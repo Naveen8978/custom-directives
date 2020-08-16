@@ -7,4 +7,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'custom-directive-app';
+  public message: string = 'Sample Demostration of Attribute Directives using Custom Directives';  
+  public color: string = 'blue';
+
 }

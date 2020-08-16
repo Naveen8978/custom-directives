@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "custom-directive-app"
+    }
+  },
+  "defaultProject": "custom-directive-app",
+  "cli": {
+    "analytics": "6fb8dfa8-f041-4060-a339-bae7e4b34b7f"
+  }
 }
